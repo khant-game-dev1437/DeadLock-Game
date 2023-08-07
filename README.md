@@ -1,5 +1,5 @@
 # DeadLock-Game
-DeadLock Game
+## How to play DeadLock Game
 
 #### Key A S D F - Movement. 
 #### Key C - Defend. 
